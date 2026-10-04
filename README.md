@@ -1,4 +1,4 @@
-<h1 align="center">Fala, eu sou o Fabrício! 👋</h1>
+<h1 align="center">Olá, eu sou o Fabrício! 👋</h1>
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas na <b>FATEC Ferraz de Vasconcelos</b> 🎓<br>
