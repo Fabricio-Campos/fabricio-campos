@@ -23,18 +23,4 @@
   <img src="https://skillicons.dev/icons?i=java,python,php,html,css,bootstrap,mysql,postgres,git,github" alt="Tecnologias" />
 </p>
 
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fabricio-Campos&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Campos&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fabricio-Campos/Fabricio-Campos/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fabricio-Campos/Fabricio-Campos/output/github-snake.svg" />
-    <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/Fabricio-Campos/Fabricio-Campos/output/github-snake.svg" />
-  </picture>
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" alt="Rodapé" />
