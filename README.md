@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Fabrício! 👋</h1>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas na <b>FATEC Ferraz de Vasconcelos</b> 🎓<br>
+  Estudante de Análise e Desenvolvimento de Sistemas na <b>FATEC Ferraz de Vasconcelos</b> 🎓
 </p>
 
 <p align="center">
@@ -9,22 +9,22 @@
   <a href="mailto:camposfs66@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
-
 ## 🧑‍💻 Um pouco sobre mim
 
 - 🎓 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas (FATEC)
 - 🧩 Curto entender o problema antes de sair codando
 - 🌱 Ainda estudando, estou aberto a aprender de tudo um pouco: desenvolvimento, dados e gestão de projetos
 
-
 ## 🛠️ Tecnologias
-<br>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,php,html,css,bootstrap,mysql,postgres,git,github" alt="Tecnologias" />
 </p>
 
+<br>
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fabricio-Campos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fabricio-Campos&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Campos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens mais usadas" />
 </p>
 
