@@ -23,4 +23,13 @@
   <img src="https://skillicons.dev/icons?i=java,python,php,html,css,bootstrap,mysql,postgres,git,github" alt="Tecnologias" />
 </p>
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fabricio-Campos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Campos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabricio-Campos&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" alt="Rodapé" />
