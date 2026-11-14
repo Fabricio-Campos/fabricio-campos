@@ -24,8 +24,8 @@
 <br>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fabricio-Campos&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Campos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Fabricio-Campos&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Fabricio-Campos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
