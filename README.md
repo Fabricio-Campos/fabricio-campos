@@ -24,11 +24,6 @@
 <br>
 
 <p align="center">
-  <img height="170" src="https://SUA-URL-DA-VERCEL.vercel.app/api?username=Fabricio-Campos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://SUA-URL-DA-VERCEL.vercel.app/api/top-langs/?username=Fabricio-Campos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabricio-Campos&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 </p>
 
